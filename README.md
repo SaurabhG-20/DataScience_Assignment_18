@@ -26,3 +26,5 @@ Calculate F Test for given 10, 20, 30, 40, 50 and 5,10,15, 20, 25.
 For 10, 20, 30, 40, 50:
 
 # Note : 
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
